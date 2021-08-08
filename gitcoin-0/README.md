@@ -2,8 +2,8 @@
 
 ## 1. Setup a CKB Node
 
-![](cbk_chain.png)
+![](ckb_chain.png)
 
 ## 2. Setup a CKB Indexer
 
-![](cbk_index.png)
+![](ckb_index.png)
