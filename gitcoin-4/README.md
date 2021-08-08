@@ -10,7 +10,7 @@
 
 ## A link to the transaction ID created by sudt-cli on the Testnet Explorer.
 
-[](https://explorer.nervos.org/aggron/transaction/0xe651edbea551bad49ba902fd1833dccf4c5514489d3f72c9f1d413271bfdb5a6)
+[https://explorer.nervos.org/aggron/transaction/0xe651edbea551bad49ba902fd1833dccf4c5514489d3f72c9f1d413271bfdb5a6](https://explorer.nervos.org/aggron/transaction/0xe651edbea551bad49ba902fd1833dccf4c5514489d3f72c9f1d413271bfdb5a6)
 
 ## A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
 
